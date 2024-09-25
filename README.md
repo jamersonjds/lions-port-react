@@ -15,7 +15,7 @@
 -   [Sass](https://sass-lang.com/documentation)
 -   [GoogleIcons](https://fonts.google.com/icons)
 
-===============================================
+
 
 ## O projeto!
 
@@ -27,7 +27,7 @@ O projeto conta com uma barra de busca que fica fixa no topo, trazendo resultado
 
 O projeto conta com uma variação de cores conforme logo e demais itens da empresa, e conta juntamente com uma breve descrição sobre a empresa.
 
-===============================================
+
 
 ## Executando
 
@@ -45,7 +45,7 @@ $ npm run dev
 
 Deste modo poderá ver e editar os arquivos
 
-===============================================\
+
 Para poder realizar a build do projeto basta acessar a pasta do projeto no terminal em seguida executar o seguinte comando.
 
 ```bash
@@ -54,7 +54,7 @@ $ npm run build
 ```
 
 Todos os arquivos serão compactados e realizados a build, eles estarão dentro da pasta dist que ficará localizada na raiz do projeto.
-===============================================-
+
 
 ## Lista de busca
 
@@ -69,7 +69,6 @@ Todos os arquivos serão compactados e realizados a build, eles estarão dentro 
 "Flex",
 "Seguro",
 
-===============================================\
 
 ## Outras versões.
 
